@@ -80,7 +80,7 @@ _Saquarema, Rio de Janeiro_
  ---
 <br/> 
 
-### 📊  GitHub Stats
+## 📊  GitHub Stats
 <div align="center">
   <img 
     alt="GitHub Stats
