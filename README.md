@@ -75,7 +75,10 @@ My name is Samuel. Since I was young, I have always been curious about how progr
 ## 🎓 Graduating Student
 **Bachelor of Software Engineering**  
 *Universidade Univassouras*  
-_Saquarema, Rio de Janeiro_ 
+_Saquarema, Rio de Janeiro_
+
+ ---
+<br/> 
 
 ### 📊  GitHub Stats
  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
