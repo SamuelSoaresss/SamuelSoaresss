@@ -1,9 +1,11 @@
 ## Samuel Soares 👨🏻‍💻
-**`Engenheiro De Software`**
+**`Software Engineering`**
 
-dasdasdsadasdasdsd
+## 👾 About Me
 
-<p align="left">
+My name is Samuel. Since I was young, I have always been curious about how programs, systems, and games are made. I am currently studying Software Engineering at the University of Vassouras.
+
+<p align="center">
   <a href="https://www.linkedin.com/in/samuel-ribeiro-soares-4a6b0a2ab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     
@@ -14,7 +16,7 @@ dasdasdsadasdasdsd
 
 ---
 
-### 🤖 Linguagens e tec
+## 🤖 Languages ​​and technologies
 
 <img 
    align="left" 
@@ -57,25 +59,36 @@ dasdasdsadasdasdsd
     width="50px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 <br/>
 <br/>
+<br/>
 
-### Estati
-<p>
-  <img 
-      align="left" 
+ ---
+ 
+## 🗂️ Certifications
+  
+- **Python Programming** - DD Tutorials  
+<br/>
+
+---
+
+## 🎓 Graduating Student
+**Bachelor of Software Engineering**  
+*Universidade Univassouras*  
+_Saquarema, Rio de Janeiro_ 
+
+### 📊  GitHub Stats
+ <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;"
-      src= "https://github-readme-stats.vercel.app/api?username=SamuelSoaresss&show_icons=true&theme=tokyonight"/>
-  <img
-     align="left" 
-      alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=SamuelSoaresss&show_icons=true&theme=tokyonight"/>
+    <img
+      alt="Top Langs" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSoaresss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSoaresss&theme=tokyonight&layout=compact&custom_title=⚙️My%20Technologies&langs_count=9"/>
+  </div>
 
-</p>
-
+</div>
   
           
