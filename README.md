@@ -16,7 +16,7 @@ My name is Samuel. Since I was young, I have always been curious about how progr
 
 ---
 
-## 🤖 Languages ​​and technologies
+## 🤖 Languages ​​and Technologies
 
 <img 
    align="left" 
