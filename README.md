@@ -86,10 +86,12 @@ _Saquarema, Rio de Janeiro_
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=SamuelSoaresss&show_icons=true&theme=tokyonight"/>
-    <img
+  <br/> 
+  <img
       alt="Top Langs" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSoaresss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+      
   </div>
 
 </div>
